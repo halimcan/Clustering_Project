@@ -1,2 +1,2 @@
 # Clustering_Project
-In this project, I applied PCA and hierarchical clustering to analyze crime data in US states. By employing PCA, I reduce dimensionality and interpret the principal components. With hierarchical clustering, I group states based on crime patterns.
+In this project, I use the "UsArrests" dataset to analyze crime data in US states. By applying PCA and hierarchical clustering techniques to the "UsArrests" dataset, I gain insights into crime patterns. PCA helps me reduce dimensionality and interpret the principal components, while hierarchical clustering groups states based on crime characteristics, providing valuable information to address crime effectively.
